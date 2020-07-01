@@ -36,10 +36,9 @@
   
   <p> Good Grief,</p><br>
   
-  <p><span id="cname"> </span>,for <span id="cgrade"> </span> years now, you have mastered your stand,<span id="csubject"> </span>.. Which is Great!<br>
-  
-    <span id="ctrait"> </span> </p><br>
-  <br>
+  <p><span id="cname"> </span>,for <span id="cgrade"> </span> years now, you have mastered your stand,<span id="csubject"> </span>.. Which is Great!</p>
+<p><span id="ctrait"> </span> </p>
+
   
   <p> Till Next Time, <br>
   Jotaro Kujo
